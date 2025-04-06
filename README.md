@@ -1,3 +1,12 @@
+This is the assignment on Collection Frameworks.
+
+
+
+
+OUTPUTS:::::---------->>>>>>>>
+
+
+
 ![Screenshot (179)](https://github.com/user-attachments/assets/9d3b1b49-b9a2-46f3-8dc1-92c82688e3ed)
 
 ![Screenshot (180)](https://github.com/user-attachments/assets/76390b07-887d-4b94-a4d8-f3db70a1759f)
